@@ -275,3 +275,5 @@ ansible-playbook k8s.yml -i inventory -l master-01 -t restart_apiserver,restart_
 
 - `-l`参数更换为具体节点IP。
 
+
+change
